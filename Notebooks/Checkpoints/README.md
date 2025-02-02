@@ -1,0 +1,1 @@
+Notebooks may checkpoint Pandas Dataframes here as Python Pickle files (.pkl)
