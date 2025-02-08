@@ -1,1 +1,1 @@
-extract the Child_Safety_Data dataset here
+Extract the dataset `Child_Safety_Data.zip` here. On Windows we suggest using 7-Zip and on MacOS we suggest The Unarchiver to extract all parts of the zip. The size of the extracted dataset is about 5.17 GB.
