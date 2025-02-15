@@ -4,6 +4,9 @@ Age Detection and Age Group Classification using Touchscreen Gestures with Machi
 ## Dataset
 This project includes the Child_Safety_Data dataset (~5GB). It is located in the `Dataset` directory in a multi-part zip. To extract it, extract `Child_Safety_Data.zip` with 7-Zip on Windows or The Unarchiver on MacOS.
 
+## Prerequisites
+The notebooks in this project require **Python 3.11 or older**. We recommend using `pyenv` to manage multiple python versions and `venv` to create a virtual python environment specifically for this project. 
+
 ## Getting Start
 * Clone this project with `git clone https://github.com/tbirms/ChildSafetyProject.git`
 * Make a Python virtual environment with `python -m venv myenv`
