@@ -1,6 +1,17 @@
+# python virtual environments
 myenv
 venv
+
+# development environment
 .DS_Store
-Child_Safety_Data
-Checkpoints
 .ipynb_checkpoints
+.python-version
+
+# extracted dataset directory
+Child_Safety_Data
+
+# Checkpoints directory 
+Checkpoints
+
+# TPOT exported best models directory
+TPOT
